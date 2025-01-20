@@ -24,4 +24,4 @@ When the quiz has been finished, the user is presented with their final score an
 
  # OUTPUT
 
- 
+ ![Image](https://github.com/user-attachments/assets/2d136082-7d5d-45d5-9f5c-6710d12dbb48)
